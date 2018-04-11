@@ -1,0 +1,83 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="demo.com" resolutions="1x,2x" timestamp="1523441611121">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="515663494" ref="index"/>
+    <file name="index.css" crc="3794528906" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="entrypoint_homepage_business_01.jpg" crc="532494069" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="businesslanding.jpg" crc="4055988452" seo="true" ref="index"/>
+    <file name="header-compliancebestpractices-v01.jpg" crc="3898837119" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="vects-05.png" crc="3860195775" ref="index"/>
+    <file name="vects-05_2x.png" crc="3860195775" ref="index"/>
+    <file name="vects-05-u410-fr.png" crc="162032966" ref="index"/>
+    <file name="vects-05-u410-fr_2x.png" crc="3860195775" ref="index"/>
+    <file name="business-management-u437-fr.jpg" crc="124054779" ref="index"/>
+    <file name="541113838.jpg" crc="472972578" ref="index"/>
+    <file name="market-research-for-london-startups.jpg" crc="504821148" ref="index"/>
+    <file name="services copy.png" crc="3809771647" ref="index"/>
+    <file name="services copy_2x.png" crc="3809771647" ref="index"/>
+    <file name="services copy-u494-fr.png" crc="4036559288" ref="index"/>
+    <file name="services copy-u494-fr_2x.png" crc="3809771647" ref="index"/>
+    <file name="benefits-of-e-commerce-in-todays-market-environmen.jpg" crc="4059703422" ref="index"/>
+    <file name="benefits-of-e-commerce-in-todays-market-environmen-u557-fr.jpg" crc="4157763093" ref="index"/>
+    <file name="e-commerce.jpg" crc="3853090738" ref="index"/>
+    <file name="e-commerce-u568-fr.jpg" crc="3759156961" ref="index"/>
+    <file name="meeting1-1.jpg" crc="3999581740" ref="index"/>
+    <file name="meeting1-1-u579-fr.jpg" crc="3855301507" ref="index"/>
+    <file name="new-facebook-ad-cheque-writer-copy-1-940x530.jpg" crc="119280992" ref="index"/>
+    <file name="new-facebook-ad-cheque-writer-copy-1-940x530-u590-fr.jpg" crc="479007720" ref="index"/>
+    <file name="online-classes-1.jpg" crc="4288293012" ref="index"/>
+    <file name="online-classes-1-u601-fr.jpg" crc="444768246" ref="index"/>
+    <file name="pexels-photo-230544.jpg" crc="281806895" ref="index"/>
+    <file name="pexels-photo-230544-u612-fr.jpg" crc="4280105794" ref="index"/>
+    <file name="sfeer-stands.jpg" crc="3858187306" ref="index"/>
+    <file name="sfeer-stands-u623-fr.jpg" crc="258456732" ref="index"/>
+    <file name="person4.jpg" crc="3763770927" ref="index"/>
+    <file name="person2.jpg" crc="3940381518" ref="index"/>
+    <file name="person3.jpg" crc="3935128940" ref="index"/>
+    <file name="person1.jpg" crc="176743895" ref="index"/>
+    <file name="stanley-dai-242205-unsplash-1024x683.jpg" crc="4031138781" seo="true" ref="index"/>
+    <file name="to-5-free-video-ecommerce-solutions-810x300.jpg" crc="3843183118" seo="true" ref="index"/>
+    <file name="2997_1-u894-fr.png" crc="4118013198" ref="index"/>
+    <file name="2997_1-u894-fr_2x.png" crc="533135199" ref="index"/>
+    <file name="2997 copy-u898-fr.png" crc="3925243363" ref="index"/>
+    <file name="2997 copy-u898-fr_2x.png" crc="335878785" ref="index"/>
+    <file name="pos.jpg" crc="213833706" ref="index"/>
+    <file name="how-to-use-ecommerce-loyalty-programs-–-why-your-site-needs-one-u1021-fr.jpg" crc="3943773429" ref="index"/>
+    <file name="588a6758d06f6719692a2d22-u1984-fr.png" crc="4183563236" ref="index"/>
+    <file name="588a6758d06f6719692a2d22-u1984-fr_2x.png" crc="3860881413" ref="index"/>
+    <file name="phone-u1995-fr.png" crc="208731618" ref="index"/>
+    <file name="phone-u1995-fr_2x.png" crc="373718306" ref="index"/>
+    <file name="email_png51-u1998-fr.png" crc="233249044" ref="index"/>
+    <file name="email_png51-u1998-fr_2x.png" crc="4080142164" ref="index"/>
+    <file name="7383-200-u2001-fr.png" crc="3763472637" ref="index"/>
+    <file name="7383-200-u2001-fr_2x.png" crc="256345576" ref="index"/>
+    <file name="instagram-new.png" crc="315151303" ref="index"/>
+    <file name="instagram-new_2x.png" crc="315151303" ref="index"/>
+    <file name="plus.png" crc="3827295238" ref="index"/>
+    <file name="plus_2x.png" crc="3909641170" ref="index"/>
+    <file name="icon-facebook.png" crc="73088650" ref="index"/>
+    <file name="icon-facebook_2x.png" crc="155723910" ref="index"/>
+    <file name="twitter.png" crc="4212293396" ref="index"/>
+    <file name="twitter_2x.png" crc="358974902" ref="index"/>
+  </folder>
+  <file name="index.html" crc="482724029" seo="true" mt="1523441558549" redirect="true"/>
+</manifest>
